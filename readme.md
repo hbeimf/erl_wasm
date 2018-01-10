@@ -1,5 +1,5 @@
 
-# beam_wasm
+# erl_wasm
 
 Experimental library for compiling [Erlang's BEAM bytecode](http://erlang.org/doc/man/beam_lib.html) into [WebAssembly](https://github.com/webassembly).   Provides the modules:
 
