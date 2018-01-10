@@ -1,0 +1,4 @@
+[{<<"eleb128">>,
+  {git,"https://github.com/funbox/eleb128.git",
+       {ref,"7aadf28a239d2f5bdee431e407a7f43dcdbf4b5f"}},
+  0}].

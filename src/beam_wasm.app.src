@@ -1,0 +1,10 @@
+{application, erl_wasm, [
+  {description, "An interface to the WebAssembly format"},
+  {vsn, "0.0.0"},
+  {registered, []},
+  {modules, [ wasm_lib ]},
+  {applications, [ kernel, eleb128 ]},
+  {maintainers, [ "Jamen Marz <jamenmarz@gmail.com>" ]},
+  {licenses, [ "MIT" ]},
+  {links, [{"Github", "https://github.com/jamen/wasm_lib"}]}
+]}.
